@@ -5,6 +5,7 @@ Exercises assigned by Nathan. Choice of language is Python.
 * Hello World
 * Leap
 * Panagram
+* DNA to RNA
 
 # Classical Algorithms
 * Bubble Sort
