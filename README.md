@@ -6,4 +6,9 @@ Exercises assigned by Nathan. Choice of language is Python.
 * Leap
 * Panagram
 
+# Classical Algorithms
+* Bubble Sort
+* Merge Sort
+* Sieve of Eratosthenes
+
 # Project Euler
