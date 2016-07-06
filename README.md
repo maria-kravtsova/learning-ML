@@ -13,3 +13,4 @@ Exercises assigned by Nathan. Choice of language is Python.
 * Sieve of Eratosthenes
 
 # Project Euler
+* 001 - Multiples of 3 and 5
