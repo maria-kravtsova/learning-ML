@@ -6,6 +6,8 @@ Exercises assigned by Nathan. Choice of language is Python.
 * Leap
 * Panagram
 * DNA to RNA
+* Word Count
+* Gigasecond
 
 # Classical Algorithms
 * Bubble Sort
