@@ -8,6 +8,7 @@ Exercises assigned by Nathan. Choice of language is Python.
 * DNA to RNA
 * Word Count
 * Gigasecond
+* Bob
 
 # Classical Algorithms
 * Bubble Sort
