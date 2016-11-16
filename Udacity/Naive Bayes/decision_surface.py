@@ -9,4 +9,6 @@ clf = GaussianNB()
 clf.fit(iris.data, iris.target)
 # test the data with predict function
 prediction = clf.predict(iris.data)
-print(prediction)
+
+accuracy = clf.score(iris.data, iris.target, sample_weight=None)
+print('accuracy is ', accuracy)
